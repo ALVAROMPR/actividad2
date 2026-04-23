@@ -10,10 +10,14 @@
 
 /* LOGO */
 .logo {
-    font-size: 24px;
-    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
-
+.logo-img {
+    width: 40px;
+    height: 40px;
+}
 /* NAV */
 .nav-links {
     list-style: none;
