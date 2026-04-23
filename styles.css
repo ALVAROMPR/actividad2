@@ -105,3 +105,27 @@
     padding-top: 10px;
     font-size: 14px;
 }
+
+
+.hero {
+    text-align: center;
+    padding: 40px;
+}
+
+.servicios {
+    padding: 30px;
+}
+
+.cards {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+}
